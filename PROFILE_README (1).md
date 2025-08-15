@@ -7,11 +7,10 @@
 
 ## ⭐ Featured
 - **AI-Powered Financial Compliance & Risk Insights** — Streamlit app with fraud alerts, loan default scoring, and compliance summaries  
-  👉 https://github.com/YOUR_GITHUB_USERNAME/ai-compliance-risk-insights
+  👉 https://github.com/gcmbell14/ai-compliance-risk-insights
+  
 - **AI in Finance Portfolio** — fraud detection, loan risk scoring, compliance monitoring case studies & visuals  
-  👉 https://github.com/YOUR_GITHUB_USERNAME/ai-finance-portfolio
-
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub handle after you upload the repos.
+  👉 https://github.com/gcmbell14/ai-finance-portfolio
 
 ---
 
@@ -36,7 +35,7 @@ Building an end-to-end **Compliance & Risk Insights** app that connects data →
 ---
 
 ## 🤝 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/bill-bell-CSM-76a7a07/
+- LinkedIn: https://www.linkedin.com/in/bill-bell-76a7a07/
 - Email: billbell24@gmail.com
 
 ---
